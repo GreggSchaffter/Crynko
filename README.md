@@ -1,2 +1,2 @@
-# SquidMoe
+# Crynko
 A chrome extension that provides more security for websites
